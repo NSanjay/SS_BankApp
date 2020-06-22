@@ -33,7 +33,6 @@ An online banking system
   - SSL / HTTPS certificates for trusted access.
   - Handle XSS (Cross-site scripting attacks).
   - Secure communication using REST API Auth tokens.
--
 
 ### Architecture:
 
