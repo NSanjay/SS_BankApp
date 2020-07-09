@@ -55,6 +55,6 @@ Apache Tomcat deployable on local and cloud architectures like AWS.
 4. Jinal Patel
 5. Smruti Berad
 6. Sumukha Radhakrishna
-7. Siddhanth Kanwal
+7. Siddhanth Kanwar
 8. Viken Shaumitra Parikh
-9. Mugdha Patel
+9. Mugdha Kolhe
