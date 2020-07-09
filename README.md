@@ -47,3 +47,14 @@ MySQL database with a normalized schema design.
 
 #### Deployment
 Apache Tomcat deployable on local and cloud architectures like AWS.
+
+#### Team (ASU CSE 545 - Spring 2019)
+1. Sanjay Narayana - Team Lead
+2. Avinash Patil - Team Deputy Lead
+3. Manoj Shankar
+4. Jinal Patel
+5. Smruti Berad
+6. Sumukha Radhakrishna
+7. Siddhanth Kanwal
+8. Viken Shaumitra Parikh
+9. Mugdha Patel
